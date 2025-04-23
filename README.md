@@ -88,14 +88,14 @@ if (security.is_safe()) {
 - TypeScript
 - Express
 - Bun
-- Advanced Security Guards
+- Security Guards
 
 ## License
 MIT License - Copyright (c) 2025 MODUVO
 
 ## Support
 For technical issues and bug reports:
-[Create an Issue](https://github.com/MODUVO/moduvo-backend/issues)
+[Create an Issue](https://github.com/MODUVO/moduvo-security/issues)
 
 ## Legal & DMCA
 For attribution requests, commercial use, or DMCA concerns:
