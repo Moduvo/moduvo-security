@@ -1,5 +1,5 @@
 /**
- * MODUVO Key Security System
+ * MODUVO Security System
  * Copyright (c) 2025 MODUVO. All rights reserved.
  * 
  * This source code is licensed under the MIT license with additional conditions:
