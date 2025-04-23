@@ -1,0 +1,39 @@
+{
+  "name": "moduvo-security",
+  "version": "1.0.0",
+  "description": "A security module for detecting virtual machines, debuggers, and memory safety issues",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "bun run build:ts",
+    "build:ts": "tsc",
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run dist/index.js",
+    "test": "bun test",
+    "lint": "bunx eslint . --ext .ts"
+  },
+  "keywords": [
+    "security",
+    "vm-detection",
+    "debugger-detection",
+    "memory-safety"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "system_guard": "^1.0.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "bun-types": "latest"
+  }
+}
