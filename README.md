@@ -1,7 +1,7 @@
 # MODUVO Security System
 
 > [!IMPORTANT]
-> this is a super simple security simple, made in typescript and just checks for certain things vms debuggers etc dont expect it to be good, ive mad it simple to add ur own detections
+> this is a super simple security simple, made in typescript and just checks for certain things vms debuggers etc dont expect it to be good, ive made it simple to add ur own detections
 
 > [!IMPORTANT]
 > This software is protected by copyright law. Removal of attribution or MODUVO credits will result in immediate DMCA takedown.
