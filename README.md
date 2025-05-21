@@ -99,6 +99,6 @@ For technical issues and bug reports:
 
 ## Legal & DMCA
 For attribution requests, commercial use, or DMCA concerns:
-Contact: setnamecallmethod (Discord)
+Contact: girlsabyss (Discord)
 
 Made by [jeeting]
